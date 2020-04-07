@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Public/proga2laba2sem/proga_2.cpp
+math.h
+C:/Users/Public/proga2laba2sem/math.h
+proga_2.h
+C:/Users/Public/proga2laba2sem/proga_2.h
+stdio.h
+C:/Users/Public/proga2laba2sem/stdio.h
+
+C:/Users/Public/proga2laba2sem/proga_2.h
+math.h
+C:/Users/Public/proga2laba2sem/math.h
+proga_2.h
+C:/Users/Public/proga2laba2sem/proga_2.h
+stdio.h
+C:/Users/Public/proga2laba2sem/stdio.h
+

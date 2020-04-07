@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Public/proga3laba2sem/proga_3.cpp
+iostream
+-
+proga_3.h
+C:/Users/Public/proga3laba2sem/proga_3.h
+
+C:/Users/Public/proga3laba2sem/proga_3.h
+utility
+-
+vector
+-
+stdio.h
+-
+cmath
+-
+

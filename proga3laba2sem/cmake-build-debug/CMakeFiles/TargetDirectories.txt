@@ -1,0 +1,3 @@
+C:/Users/Public/proga3laba2sem/cmake-build-debug/CMakeFiles/proga3laba2sem.dir
+C:/Users/Public/proga3laba2sem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Public/proga3laba2sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
