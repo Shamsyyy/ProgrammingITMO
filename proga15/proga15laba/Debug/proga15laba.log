@@ -1,0 +1,18 @@
+﻿  arcfile.c
+C:\Users\Даурчик\Desktop\Lab15\arcfile.c(11,49): warning C4267:  =: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+C:\Users\Даурчик\Desktop\Lab15\arcfile.c(7,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\Даурчик\Desktop\Lab15\arcfile.c(13,1): error C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :   см. объявление "strcpy"
+C:\Users\Даурчик\Desktop\Lab15\arcfile.c(25,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  arch.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\Даурчик\Desktop\Lab15\arch.c(13,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Даурчик\Desktop\Lab15\arch.c(6,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\Даурчик\Desktop\Lab15\arch.c(30,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Даурчик\Desktop\Lab15\arch.c(28,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\Даурчик\Desktop\Lab15\arch.c(44,23): warning C4018:  <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\Даурчик\Desktop\Lab15\arch.c(56,23): warning C4018:  <: несоответствие типов со знаком и без знака

@@ -1,0 +1,5 @@
+cd C:\Users\Даурчик\Desktop\newpapka\proga15laba
+gcc main.c
+a.exe --file data.arc --create a.txt b.bin c.bmp
+a.exe --file data.arc --extract
+a.exe --file data.arc --list

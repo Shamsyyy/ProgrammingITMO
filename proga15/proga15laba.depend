@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581605271 source:c:\users\Даурчик\desktop\Новая папка (3)\proga15laba\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
